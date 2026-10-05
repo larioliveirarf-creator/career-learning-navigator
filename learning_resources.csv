@@ -1,0 +1,37 @@
+id,title,provider,resource_type,url,access_cost
+1,Excel Skills for Business Specialization,Macquarie University (Coursera),Learning Path,https://www.coursera.org/specializations/excel,Paid
+2,Chandoo.org Excel Training,Chandoo.org,Tutorial,https://chandoo.org/wp/,Free
+3,SQLZoo Interactive Tutorials,SQLZoo,Tutorial,https://sqlzoo.net/,Free
+4,Data Analyst in Python,DataCamp,Learning Path,https://www.datacamp.com/tracks/data-analyst-with-python,Paid
+5,Introduction to Data Science with Python,Harvard University (edX),Course,https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python,Free
+6,Tableau eLearning: Analyst Learning Path,Tableau,Learning Path,https://www.tableau.com/learn/training/elearning,Paid
+7,Visualize Data with Tableau Basics,Tableau (Salesforce Trailhead),Tutorial,https://trailhead.salesforce.com/content/learn/modules/learn-about-tableau,Free
+8,Google Data Analytics Professional Certificate,Google (Coursera),Learning Path,https://www.coursera.org/professional-certificates/google-data-analytics,Paid
+9,Industry KPIs Playbook,Udemy,Course,https://www.udemy.com/course/industry-kpis-playbook/,Free
+10,Business Metrics for Data-Driven Companies,Duke University (Coursera),Course,https://www.coursera.org/learn/analytics-business-metrics,Paid
+11,A/B Testing,Google (Udacity),Course,https://www.udacity.com/course/ab-testing--ud257,Free
+12,Basic Statistics,University of Amsterdam (Coursera),Course,https://www.coursera.org/learn/basic-statistics,Paid
+13,Data Analytics Career Track,Springboard,Bootcamp,https://www.springboard.com/courses/data-analytics-career-track/,Paid
+14,Data Analytics Bootcamp,TripleTen,Bootcamp,https://tripleten.com/data-analyst/,Paid
+15,dbt Fundamentals,dbt Labs (dbt Learn),Course,https://learn.getdbt.com/courses/dbt-fundamentals,Free
+16,The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero,Zoltan C. Toth (Udemy),Course,https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/,Paid
+17,GitHub Skills,GitHub,Tutorial,https://learn.github.com/skills,Free
+18,Introduction to Git and GitHub,Google (Coursera),Course,https://www.coursera.org/learn/introduction-git-github,Paid
+19,Derive Insights from BigQuery Data (Skill Badge),Google Cloud (Google Skills),Course,https://www.skills.google/course_templates/623,Free
+20,Accelerating Data Teams with Snowflake and dbt – Hands-On Lab,Snowflake & dbt Labs (Snowflake Quickstarts),Tutorial,https://quickstarts.snowflake.com/guide/accelerating_data_teams_with_snowflake_and_dbt_cloud_hands_on_lab/,Free
+21,Great Expectations Documentation & Tutorials,Great Expectations (GX),Tutorial,https://docs.greatexpectations.io/docs/,Free
+22,Data Governance 101,Atlan,Article,https://atlan.com/data-governance-101/,Free
+23,Catalog Blog – Data Governance,Coalesce (formerly CastorDoc),Article,https://www.castordoc.com/blog-category/data-governance,Free
+24,Introduction to Data Warehousing,DataCamp,Course,https://www.datacamp.com/courses/data-warehousing-concepts,Paid
+25,"Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema",Lawrence Corr & Jim Stagnitto (DecisionOne Press),Book,https://books.google.com/books/about/Agile_Data_Warehouse_Design.html?id=TRWFmnv8jP0C,Paid
+26,Analytics Engineering with dbt,Uplimit (formerly CoRise),Course,https://uplimit.com/course/analytics-engineering-with-dbt,Paid
+27,Real Python Tutorials,Real Python,Tutorial,https://realpython.com/,Free
+28,Python Programmer,DataCamp,Learning Path,https://www.datacamp.com/tracks/python-programmer,Paid
+29,AWS Skill Builder,AWS,Learning Path,https://skillbuilder.aws/,Free
+30,Astronomer Academy (Apache Airflow),Astronomer,Course,https://academy.astronomer.io/,Free
+31,SQL Tutorial (Basic to Advanced),ThoughtSpot (formerly Mode),Tutorial,https://mode.com/sql-tutorial/,Free
+32,SQL Practice Challenges,HackerRank,Tutorial,https://www.hackerrank.com/domains/sql,Free
+33,Databricks Academy Learning Paths,Databricks,Learning Path,https://www.databricks.com/learn/training/home,Free
+34,Introduction to PySpark,DataCamp,Course,https://www.datacamp.com/courses/introduction-to-pyspark,Paid
+35,Data Engineering Zoomcamp,DataTalksClub,Course,https://github.com/DataTalksClub/data-engineering-zoomcamp,Free
+36,DataEngineerCamp,DataEngineerCamp,Bootcamp,https://dataengineercamp.com/,Paid

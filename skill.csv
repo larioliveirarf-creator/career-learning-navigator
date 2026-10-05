@@ -1,0 +1,19 @@
+id,name
+1,Excel
+2,SQL
+3,Python
+4,Tableau
+5,Exploratory Data Analysis (EDA)
+6,Basic Statistics
+7,Data Storytelling
+8,KPIs
+9,dbt
+10,Git / Version Control
+11,Cloud Data Warehouses
+12,Data Modeling
+13,Data Quality Testing
+14,Data Pipelines
+15,Data Cataloging & Governance
+16,AWS
+17,Apache Airflow
+18,Apache Spark
